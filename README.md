@@ -1,2 +1,2 @@
 # ares
-Finding areas of convex polygon masks
+Finding areas of convex polygon masks in images
