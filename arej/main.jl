@@ -141,7 +141,7 @@ area(path) = load(path) |>
     pixelsToMillimeters |>
     CalculateArea |>
     area ->
-        println("The are is $(area) mm². ~$(Int64(round(sqrt(area_square)))) pixels are 1 mm.")
+        println("The area is $(area) mm². ~$(Int64(round(sqrt(area_square)))) pixels are 1 mm.")
 
 area(img_path)
 
